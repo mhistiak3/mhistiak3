@@ -13,7 +13,5 @@ Skills: HTML / CSS / Javascript / React / Nodejs / Expressjs / MongoDB / PHP / M
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/mhistiak3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/mhistiak3)  
-
 ![Profile views](https://gpvc.arturio.dev/https://github.com/mhistiak3)  
 
