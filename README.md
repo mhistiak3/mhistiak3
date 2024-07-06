@@ -65,3 +65,4 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 - **Email**: [mhistiak2@gmail.com](mailto:mhistiak2@gmail.com)
 - **LinkedIn**: [Linkdin Profile](https://www.linkedin.com/in/istiak-ahammad/)
 - **GitHub**: [GitHub Profile](https://github.com/mhistiak3)
+- **X**: [X Profile](https://x.com/Mdistia59400077)
