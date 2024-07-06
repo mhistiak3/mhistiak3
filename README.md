@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mhistiak3?style=social)](https://github.com/mhistiak3)
 [![GitHub stars](https://img.shields.io/github/stars/mhistiak3?style=social)](https://github.com/mhistiak3)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/your_twitter_handle)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://x.com/Mdistia59400077)
 
 ## About Me
 
