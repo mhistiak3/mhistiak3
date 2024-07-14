@@ -53,7 +53,6 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 ![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical)
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=mhistiak3&theme=radical)
 
 ## Badges
 
