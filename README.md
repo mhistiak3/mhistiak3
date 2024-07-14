@@ -62,7 +62,7 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 
 ## Contact
 
-- **Email**: [mhistiak2@gmail.com](mailto:mhistiak2@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/istiak-ahammad/)
-- **GitHub**: [GitHub Profile](https://github.com/mhistiak3)
-- **X**: [X Profile](https://x.com/Mdistia59400077)
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mhistiak2@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/istiak-ahammad/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://github.com/mhistiak3)
+- [![X](https://img.shields.io/badge/-X-1DA1F2?logo=x&logoColor=white&style=flat)](https://x.com/Mdistia59400077)
