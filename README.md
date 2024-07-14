@@ -51,14 +51,18 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 ## GitHub Stats
 
 ![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)
-
-## Top Languages
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=mhistiak3&theme=radical)
 
-## Contributions
+## Badges
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)
+![GitHub last commit](https://img.shields.io/github/last-commit/mhistiak3/mhistiak3?logo=github&style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/mhistiak3/mhistiak3?logo=github&style=flat)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mhistiak3/mhistiak3?logo=github&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/mhistiak3/mhistiak3?logo=github&style=flat)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/mhistiak3/mhistiak3?logo=github&style=flat)
+![GitHub release](https://img.shields.io/github/v/release/mhistiak3/mhistiak3?logo=github&style=flat)
 
 ## Contact
 
