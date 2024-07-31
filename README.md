@@ -40,9 +40,9 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 
 ## Projects
 
-### Project 1: [Typed Game](https://typed-game.netlify.app/)
-- **Description**: Typing Speed Challenge game
-- **Technologies Used**: HTML, CSS, Tailwind CSS, Javascript
+### Project 1: [Private Chat Application](https://github.com/mhistiak3/private-chat-application)
+- **Description**: Fullstack Private Chat Application
+- **Technologies Used**: NodeJs, ExpressJs, MongoDB, EJS, JWT and more
 
 ### Project 2: [iBooks](https://i-books-ia.netlify.app/)
 - **Description**: Programming book finding website
