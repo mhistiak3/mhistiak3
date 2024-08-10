@@ -44,9 +44,9 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 - **Description**: Fullstack Private Chat Application
 - **Technologies Used**: NodeJs, ExpressJs, MongoDB, EJS, JWT and more
 
-### Project 2: [iBooks](https://i-books-ia.netlify.app/)
-- **Description**: Programming book finding website
-- **Technologies Used**: HTML, Tailwind CSS, Javascript, API
+### Project 2: [Nifty](https://github.com/mhistiak3/nifty-notes-taking-app)
+- **Description**: Nifty - Notes Taking App
+- **Technologies Used**: NodeJs, ExpressJs, MongoDB, EJS, JWT and more
 
 ## GitHub Stats
 
