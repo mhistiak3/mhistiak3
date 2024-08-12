@@ -48,6 +48,10 @@ Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I 
 - **Description**: Nifty - Notes Taking App
 - **Technologies Used**: NodeJs, ExpressJs, MongoDB, EJS, JWT and more
 
+### Project 3: [MindScribe](https://github.com/mhistiak3/MindScribe)
+- **Description**: MindScribe - Blog Writing Application.
+- **Technologies Used**: NodeJs, ExpressJs, MongoDB, EJS, JWT and more
+
 ## GitHub Stats
 
 ![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)
