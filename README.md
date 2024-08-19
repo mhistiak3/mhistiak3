@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I have a strong passion for web development and a keen interest in building scalable web applications. Although I'm at the beginning of my career, I am committed to continuous learning and growth. I am eager to apply my knowledge and skills in real-world projects and am excited to contribute to innovative solutions.
+Hello! I'm Istiak Ahammad, a dedicated and enthusiastic MERN Stack Developer. I have a strong passion for web development and a keen interest in building scalable web applications. Although I'm at the beginning of my career, I am committed to continuous learning and growth. I am eager to apply my knowledge and skills to real-world projects and am excited to contribute to innovative solutions.
 
 ## Skills
 
