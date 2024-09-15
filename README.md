@@ -21,6 +21,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) **Redux**: State management for complex apps.
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) **Tailwind CSS**: Utility-first CSS framework.
 
+
+
 ### Backend Development
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Scalable server-side apps.
@@ -28,7 +30,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat) **GraphQL**: Query language for APIs.
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) **MongoDB**: NoSQL database for scalability.
 - ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white&style=flat) **Mongoose**: Elegant MongoDB modeling.
-- 
+  
+
 
 ### Other Technologies
 
@@ -41,6 +44,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) **Firebase**: Backend-as-a-service for real-time databases and authentication.
 
   
+
 
 ## 🚀 Projects
 
@@ -60,8 +64,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ## 📊 GitHub Stats
 
-![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)
+![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)     
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)    
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical)
 
 ## 🏆 Badges
