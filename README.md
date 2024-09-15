@@ -27,9 +27,10 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Scalable server-side apps.
 - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) **Express.js**: Minimalist web framework for Node.js.
-- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat) **GraphQL**: Query language for APIs.
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) **MongoDB**: NoSQL database for scalability.
 - ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white&style=flat) **Mongoose**: Elegant MongoDB modeling.
+- ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat) **GraphQL**: Query language for APIs.
+- ![RESTful APIs](https://img.shields.io/badge/-RESTful%20APIs-0052CC?logo=api&logoColor=white&style=flat) **RESTful APIs**: Designing and implementing RESTful services.
   
 
 
@@ -42,6 +43,9 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 - ![Babel](https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=flat) **Babel**: JavaScript compiler for using next-generation JavaScript.
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) **TypeScript**: Typed superset of JavaScript for large-scale applications.
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) **Firebase**: Backend-as-a-service for real-time databases and authentication.
+- ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat) **Supabase**: Open-source Firebase alternative for building apps with authentication, databases, and more.
+- ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=flat) **Appwrite**: Secure and scalable open-source backend server for web, mobile, and Flutter developers.
+
 
   
 
