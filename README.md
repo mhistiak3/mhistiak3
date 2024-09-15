@@ -14,12 +14,15 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ### Frontend Development
 
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5 & CSS3**: Semantic markup and modern styling.
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) **CSS**: Styling language used to design web pages.
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20CSS-7952B3?logo=bootstrap&logoColor=white&style=flat) **Bootstrap CSS**: Popular CSS framework for building responsive, mobile-first sites.
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) **Tailwind CSS**: Utility-first CSS framework.
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript (ES6+)**: Modern features and best practices.
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) **React.js**: Interactive and dynamic user interfaces.
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) **Next.js**: Server-side rendering and static site generation.
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript (ES6+)**: Modern features and best practices.
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) **HTML5 & CSS3**: Semantic markup and modern styling.
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) **Redux**: State management for complex apps.
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) **Tailwind CSS**: Utility-first CSS framework.
+
 
 
 
