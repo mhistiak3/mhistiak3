@@ -52,7 +52,9 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ## 🚀 Projects
 
-### Featured Projects
+#### [MindScribe - Blog Writing App](https://github.com/mhistiak3/MindScribe)
+[![MindScribe](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=radical)](https://github.com/mhistiak3/MindScribe)
+
 
 #### [Private Chat Application](https://github.com/mhistiak3/private-chat-application)
 [![Private Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=private-chat-application&theme=radical)](https://github.com/mhistiak3/private-chat-application)
@@ -61,9 +63,6 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 #### [Nifty - Notes Taking App](https://github.com/mhistiak3/nifty-notes-taking-app)
 [![Nifty](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical)](https://github.com/mhistiak3/nifty-notes-taking-app)
 
-
-#### [MindScribe - Blog Writing App](https://github.com/mhistiak3/MindScribe)
-[![MindScribe](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=radical)](https://github.com/mhistiak3/MindScribe)
 
 
 ## 📊 GitHub Stats
@@ -82,6 +81,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 ![GitHub repo size](https://img.shields.io/github/repo-size/mhistiak3/mhistiak3?logo=github&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/mhistiak3/mhistiak3?logo=github&style=flat)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/mhistiak3/mhistiak3?logo=github&style=flat)
+
 
 ## 📫 Contact
 
