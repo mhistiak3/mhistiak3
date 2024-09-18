@@ -69,7 +69,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 
 #### [JustFly - Ai Trip Planner](https://github.com/mhistiak3/JustFly)
-[![Nifty](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical)](https://github.com/mhistiak3/JustFly)
+[![Nifty](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly&theme=radical)](https://github.com/mhistiak3/JustFly)
 
 
 
