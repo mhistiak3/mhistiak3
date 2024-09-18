@@ -48,7 +48,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 - ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) **Firebase**: Backend-as-a-service for real-time databases and authentication.
 - ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat) **Supabase**: Open-source Firebase alternative for building apps with authentication, databases, and more.
 - ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=flat) **Appwrite**: Secure and scalable open-source backend server for web, mobile, and Flutter developers.
-![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-6A0DAD?logo=ai&logoColor=white&style=flat) **Gemini AI**: Leveraging AI capabilities for intelligent solutions.
+- ![Gemini AI](https://img.shields.io/badge/-Gemini%20AI-6A0DAD?logo=ai&logoColor=white&style=flat) **Gemini AI**: Leveraging AI capabilities for intelligent solutions.
 
 
   
