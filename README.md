@@ -59,17 +59,33 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ## 🚀 Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mhistiak3/MindScribe">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mhistiak3/private-chat-application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=private-chat-application&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mhistiak3/nifty-notes-taking-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mhistiak3/JustFly">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![MindScribe](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=radical)](https://github.com/mhistiak3/MindScribe)
-
-[![Private Chat Application](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=private-chat-application&theme=radical)](https://github.com/mhistiak3/private-chat-application)
-
-[![Nifty](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical)](https://github.com/mhistiak3/nifty-notes-taking-app)
-
-[![JustFly](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly&theme=radical)](https://github.com/mhistiak3/JustFly)
-
-</div>
 
 ## 📊 GitHub Stats
 
