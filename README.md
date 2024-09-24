@@ -89,18 +89,35 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical)](https://github.com/mhistiak3)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/mhistiak3">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mhistiak3">
+        <img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mhistiak3">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/mhistiak3">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhistiak3&theme=radical" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![Istiak Ahammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical)](https://github.com/mhistiak3)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical)](https://github.com/mhistiak3)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/mhistiak3/mhistiak3?logo=github&style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/mhistiak3/mhistiak3?logo=github&style=flat)
-
-</div>
 
 ## 🏆 Badges
 
