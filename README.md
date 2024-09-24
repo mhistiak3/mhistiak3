@@ -134,14 +134,20 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 
 <br>
+
 ## 🏆 Badges
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <img src="https://img.shields.io/github/issues/mhistiak3/mhistiak3?logo=github&style=flat">
-  <img src="https://img.shields.io/github/issues-pr/mhistiak3/mhistiak3?logo=github&style=flat">
+  <img src="https://img.shields.io/github/issues/mhistiak3/mhistiak3?color=brightgreen&label=Issues&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/issues-pr/mhistiak3/mhistiak3?color=blue&label=Pull%20Requests&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/mhistiak3/mhistiak3?color=yellow&label=Stars&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/mhistiak3/mhistiak3?color=orange&label=Forks&logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/github/contributors/mhistiak3/mhistiak3?color=red&label=Contributors&logo=github&style=for-the-badge">
 </div>
 
+
 <br>
+
 ## 📫 Contact
 
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:mhistiak2@gmail.com)
