@@ -90,29 +90,38 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 <table>
   <tr>
     <td>
-      <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical" alt="GitHub Streak" />
-      </a>
+      <div style="padding: 10px;">
+        <a href="https://github.com/mhistiak3">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical" alt="GitHub Streak" />
+        </a>
+      </div>
     </td>
     <td>
-      <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </a>
+      <div style="padding: 10px;">
+        <a href="https://github.com/mhistiak3">
+          <img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical" alt="GitHub Stats" />
+        </a>
+      </div>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical" alt="Top Languages" />
-      </a>
+      <div style="padding: 10px;">
+        <a href="https://github.com/mhistiak3">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical" alt="Top Languages" />
+        </a>
+      </div>
     </td>
     <td>
-      <a href="https://github.com/mhistiak3">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhistiak3&theme=radical" alt="Contribution Graph" />
-      </a>
+      <div style="padding: 10px;">
+        <a href="https://github.com/mhistiak3">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhistiak3&theme=radical" alt="Contribution Graph" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 
