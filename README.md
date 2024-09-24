@@ -89,30 +89,28 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <table>
   <tr>
     <td>
       <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhistiak3&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
     <td>
       <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=radical" alt="GitHub Stats" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=radical" alt="Top Languages" />
       </a>
     </td>
     <td>
       <a href="https://github.com/mhistiak3">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mhistiak3&theme=radical" />
+        <img src="https://activity-graph.herokuapp.com/graph?username=mhistiak3&theme=radical" alt="Contribution Graph" />
       </a>
     </td>
   </tr>
