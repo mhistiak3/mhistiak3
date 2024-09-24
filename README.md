@@ -50,8 +50,6 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Babel-F9DC3E?logo=babel&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Gemini%20AI-6A0DAD?logo=ai&logoColor=white&style=for-the-badge">
@@ -110,11 +108,12 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
     </td>
     <td>
       <a href="https://github.com/mhistiak3">
-        <img src="https://activity-graph.herokuapp.com/graph?username=mhistiak3&theme=radical" alt="Contribution Graph" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhistiak3&theme=radical" alt="Contribution Graph" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ## 🏆 Badges
