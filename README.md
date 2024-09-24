@@ -11,6 +11,8 @@
 
 Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer**. I enjoy building scalable web applications and continuously improving my skill set. I am committed to contributing to innovative projects and collaborating with others in the tech community.
 
+-
+
 ## 🛠️ Skills
 
 ### Frontend Development
@@ -30,6 +32,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-Yup-F7DF1E?logo=yup&logoColor=black&style=for-the-badge">
 </div>
 
+
 ### Backend Development
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -44,6 +47,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge">
 </div>
 
+
 ### Tools and Other Technologies
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -54,6 +58,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Gemini%20AI-6A0DAD?logo=ai&logoColor=white&style=for-the-badge">
 </div>
+
+-
 
 ## 🚀 Projects
 
@@ -85,6 +91,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 </table>
 
 
+
+-
 
 ## 📊 GitHub Stats
 
@@ -124,7 +132,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 </table>
 
 
-
+-
 
 ## 🏆 Badges
 
