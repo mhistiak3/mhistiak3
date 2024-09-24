@@ -59,30 +59,31 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 <table>
   <tr>
-    <td>
+    <td style="padding: 10px;">
       <a href="https://github.com/mhistiak3/MindScribe">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=radical" />
       </a>
     </td>
-    <td>
+    <td style="padding: 10px;">
       <a href="https://github.com/mhistiak3/private-chat-application">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=private-chat-application&theme=radical" />
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="padding: 10px;">
       <a href="https://github.com/mhistiak3/nifty-notes-taking-app">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical" />
       </a>
     </td>
-    <td>
+    <td style="padding: 10px;">
       <a href="https://github.com/mhistiak3/JustFly">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly&theme=radical" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 ## 📊 GitHub Stats
