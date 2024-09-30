@@ -29,7 +29,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Formik-E10098?logo=formik&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC1C24?logo=react-hook-form&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Yup-F7DF1E?logo=yup&logoColor=black&style=for-the-badge">
+  
 </div>
 
 
