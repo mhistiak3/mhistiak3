@@ -71,8 +71,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
       </a>
     </td>
     <td style="padding: 10px;">
-      <a href="https://github.com/mhistiak3/private-chat-application">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=private-chat-application&theme=radical" />
+      <a href="https://github.com/mhistiak3/link-sharing-application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=link-sharing-application&theme=radical" />
       </a>
     </td>
   </tr>
