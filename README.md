@@ -61,7 +61,7 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
 
 <br>
 
-## 🚀 Projects
+## 🚀 My Projects
 
 <table>
   <tr>
