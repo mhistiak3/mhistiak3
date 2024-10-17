@@ -78,8 +78,8 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   </tr>
   <tr>
     <td style="padding: 10px;">
-      <a href="https://github.com/mhistiak3/nifty-notes-taking-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=nifty-notes-taking-app&theme=radical" />
+      <a href="https://github.com/mhistiak3/real-time-code-editor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=real-time-code-editor&theme=radical" />
       </a>
     </td>
     <td style="padding: 10px;">
