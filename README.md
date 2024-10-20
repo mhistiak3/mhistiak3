@@ -21,13 +21,14 @@ Hello! I'm **Istiak Ahammad**, a passionate and dedicated **MERN Stack Developer
   <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-ShadCN-000000?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Bootstrap%20CSS-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-ShadCN-000000?logo=react&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Formik-E10098?logo=formik&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Zustand-181717?logo=zustand&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC1C24?logo=react-hook-form&logoColor=white&style=for-the-badge">
   
 </div>
