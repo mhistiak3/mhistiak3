@@ -34,31 +34,31 @@ I focus on clean code, great user experiences, and turning ideas into real-world
 
 ## 💼 Projects
 
-<a href="https://github.com/mhistiak3/MindScribe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe&theme=tokyonight" />
-</a>
+<div align="center">
 
-<a href="https://github.com/mhistiak3/link-sharing-application">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=link-sharing-application&theme=tokyonight" />
-</a>
+[![MindScribe](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=MindScribe)](https://github.com/mhistiak3/MindScribe)
+[![Link Sharing](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=link-sharing-application)](https://github.com/mhistiak3/link-sharing-application)
 
-<a href="https://github.com/mhistiak3/real-time-code-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=real-time-code-editor&theme=tokyonight" />
-</a>
+[![Realtime Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=real-time-code-editor)](https://github.com/mhistiak3/real-time-code-editor)
+[![JustFly](https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly)](https://github.com/mhistiak3/JustFly)
 
-<a href="https://github.com/mhistiak3/JustFly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhistiak3&repo=JustFly&theme=tokyonight" />
-</a>
+</div>
+
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mhistiak3&theme=tokyonight&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhistiak3&show_icons=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact&theme=tokyonight&hide_border=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=mhistiak3)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhistiak3&layout=compact)
+
+</div>
+
 
 ---
 
